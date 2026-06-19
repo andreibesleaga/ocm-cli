@@ -10,8 +10,8 @@ import (
 	"os"
 	"slices"
 
+	"github.com/andreibesleaga/ocm-go"
 	"github.com/stainless-sdks/ocm-cli/pkg/cmd"
-	"github.com/stainless-sdks/ocm-go"
 	"github.com/tidwall/gjson"
 	"github.com/urfave/cli/v3"
 )
