@@ -12,8 +12,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/stainless-sdks/ocm-cli/internal/autocomplete"
-	"github.com/stainless-sdks/ocm-cli/internal/requestflag"
+	"github.com/andreibesleaga/ocm-cli/internal/autocomplete"
+	"github.com/andreibesleaga/ocm-cli/internal/requestflag"
 	docs "github.com/urfave/cli-docs/v3"
 	"github.com/urfave/cli/v3"
 )

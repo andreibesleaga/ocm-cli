@@ -5,7 +5,7 @@ package cmd
 import (
 	"testing"
 
-	"github.com/stainless-sdks/ocm-cli/internal/mocktest"
+	"github.com/andreibesleaga/ocm-cli/internal/mocktest"
 )
 
 func TestPoiList(t *testing.T) {
