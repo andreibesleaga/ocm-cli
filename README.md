@@ -4,6 +4,8 @@ The official CLI for the [Ocm REST API](https://openchargemap.org/site/about).
 
 It is generated with [Stainless](https://www.stainless.com/).
 
+API Reference: https://andreibesleaga.github.io/ocm-api-reference/api.html
+
 ## Installation
 
 ### Installing with Go
