@@ -15,7 +15,7 @@ on:
       - 'stl-preview-base/**'
 
 env:
-  GOPRIVATE: github.com/stainless-sdks/ocm-go
+  GOPRIVATE: github.com/andreibesleaga/ocm-go,github.com/stainless-sdks/ocm-go
 
 jobs:
   lint:
