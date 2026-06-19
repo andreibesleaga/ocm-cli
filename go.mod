@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/ocm-cli
+module github.com/andreibesleaga/ocm-cli
 
 go 1.25
 

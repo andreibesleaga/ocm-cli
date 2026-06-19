@@ -16,8 +16,8 @@ import (
 	"strings"
 	"syscall"
 
+	"github.com/andreibesleaga/ocm-cli/internal/jsonview"
 	"github.com/andreibesleaga/ocm-go/option"
-	"github.com/stainless-sdks/ocm-cli/internal/jsonview"
 
 	"github.com/charmbracelet/x/term"
 	"github.com/itchyny/json2yaml"

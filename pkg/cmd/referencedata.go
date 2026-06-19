@@ -6,10 +6,10 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/andreibesleaga/ocm-cli/internal/apiquery"
+	"github.com/andreibesleaga/ocm-cli/internal/requestflag"
 	"github.com/andreibesleaga/ocm-go"
 	"github.com/andreibesleaga/ocm-go/option"
-	"github.com/stainless-sdks/ocm-cli/internal/apiquery"
-	"github.com/stainless-sdks/ocm-cli/internal/requestflag"
 	"github.com/tidwall/gjson"
 	"github.com/urfave/cli/v3"
 )

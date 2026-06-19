@@ -13,7 +13,7 @@ API Reference: https://andreibesleaga.github.io/ocm-api-reference/api.html
 To test or install the CLI locally, you need [Go](https://go.dev/doc/install) version 1.22 or later installed.
 
 ```sh
-go install 'github.com/stainless-sdks/ocm-cli/cmd/ocm@latest'
+go install 'github.com/andreibesleaga/ocm-cli/cmd/ocm@latest'
 ```
 
 Once you have run `go install`, the binary is placed in your Go bin directory:
@@ -27,6 +27,8 @@ If commands aren't found after installation, add the Go bin directory to your PA
 # Add to your shell profile (.zshrc, .bashrc, etc.)
 export PATH="$PATH:$(go env GOPATH)/bin"
 ```
+
+<!-- x-release-please-end -->
 
 ### Running Locally
 

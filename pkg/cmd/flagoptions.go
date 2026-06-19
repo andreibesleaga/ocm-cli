@@ -16,11 +16,11 @@ import (
 	"strings"
 	"unicode/utf8"
 
+	"github.com/andreibesleaga/ocm-cli/internal/apiform"
+	"github.com/andreibesleaga/ocm-cli/internal/apiquery"
+	"github.com/andreibesleaga/ocm-cli/internal/debugmiddleware"
+	"github.com/andreibesleaga/ocm-cli/internal/requestflag"
 	"github.com/andreibesleaga/ocm-go/option"
-	"github.com/stainless-sdks/ocm-cli/internal/apiform"
-	"github.com/stainless-sdks/ocm-cli/internal/apiquery"
-	"github.com/stainless-sdks/ocm-cli/internal/debugmiddleware"
-	"github.com/stainless-sdks/ocm-cli/internal/requestflag"
 
 	"github.com/goccy/go-yaml"
 	"github.com/urfave/cli/v3"
