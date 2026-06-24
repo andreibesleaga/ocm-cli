@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.3 (2026-06-24)
+
+Full Changelog: [v0.0.2...v0.0.3](https://github.com/andreibesleaga/ocm-cli/compare/v0.0.2...v0.0.3)
+
+### Chores
+
+* update SDK settings ([9a0df11](https://github.com/andreibesleaga/ocm-cli/commit/9a0df114fd563c1d5498160c23800a843fe12ed7))
+
 ## 0.0.2 (2026-06-19)
 
 Full Changelog: [v0.0.1...v0.0.2](https://github.com/andreibesleaga/ocm-cli/compare/v0.0.1...v0.0.2)
